@@ -3,7 +3,7 @@
 The import files for: Default ShoppingCart were successfully downloaded!
 Initial max execution time = 30
 Files info:
-Site URL = http://localhost:8888/pickwise
+Site URL = http://localhost/pickwise
 Data file = /Applications/MAMP/htdocs/pickwise/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart.wordpress.xml
 Widget file = /Applications/MAMP/htdocs/pickwise/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart-widgets.wie
 Customizer file = /Applications/MAMP/htdocs/pickwise/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart-export.dat
